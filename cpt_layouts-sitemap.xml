@@ -1,143 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- This sitemap was динамічно generated on 10.10.2023 at 01:30 by All in One SEO - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="https://fiftybeach.com/default.xsl?sitemap=cpt_layouts"?>
+<?xml-stylesheet type="text/xsl" href="https://twelve-beach.club/default.xsl?sitemap=cpt_layouts"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/footer-default/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/footer-default/]]></loc>
 		<lastmod><![CDATA[2023-08-14T13:56:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2022/06/fifty-beach-logo2.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2022/06/fifty-beach-logo2.png]]></image:loc>
 			<image:title><![CDATA[fifty beach logo2]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/header-simple-dark/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/header-simple-dark/]]></loc>
 		<lastmod><![CDATA[2023-08-14T13:55:07+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2022/06/logo@3x.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2022/06/logo@3x.png]]></image:loc>
 			<image:title><![CDATA[logo@3x]]></image:title>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2021/10/logo.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2021/10/logo.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/header-simple-light/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/header-simple-light/]]></loc>
 		<lastmod><![CDATA[2022-06-30T11:39:25+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2022/06/logo@3x.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2022/06/logo@3x.png]]></image:loc>
 			<image:title><![CDATA[logo@3x]]></image:title>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2021/10/logo.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2021/10/logo.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/header-default/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/header-default/]]></loc>
 		<lastmod><![CDATA[2022-06-29T12:18:23+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2021/10/logo.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2021/10/logo.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/header-default-with-space/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/header-default-with-space/]]></loc>
 		<lastmod><![CDATA[2022-06-29T12:17:07+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2021/10/logo.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2021/10/logo.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/footer-home-3/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/footer-home-3/]]></loc>
 		<lastmod><![CDATA[2022-06-06T06:37:38+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/footer-home-2/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/footer-home-2/]]></loc>
 		<lastmod><![CDATA[2022-05-30T10:29:48+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2021/10/logo-white.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2021/10/logo-white.png]]></image:loc>
 			<image:title><![CDATA[logo-white]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/header-with-central-logo/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/header-with-central-logo/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:48:28+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2021/10/logo-white.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2021/10/logo-white.png]]></image:loc>
 			<image:title><![CDATA[logo-white]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/header-events/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/header-events/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:28:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2021/10/logo-dark.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2021/10/logo-dark.png]]></image:loc>
 			<image:title><![CDATA[logo-dark]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/mailchimp-popup/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/mailchimp-popup/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:22:01+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/mailchimp-popup-2/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/mailchimp-popup-2/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:21:54+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/slide-2/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/slide-2/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:04:23+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/slide-1/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/slide-1/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:04:11+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/header-with-panel-bar/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/header-with-panel-bar/]]></loc>
 		<lastmod><![CDATA[2022-05-19T15:25:32+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2021/10/logo-white.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2021/10/logo-white.png]]></image:loc>
 			<image:title><![CDATA[logo-white]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/layouts/panel-bar/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/layouts/panel-bar/]]></loc>
 		<lastmod><![CDATA[2021-11-16T13:21:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2021/10/logo-dark.png]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2021/10/logo-dark.png]]></image:loc>
 			<image:title><![CDATA[logo-dark]]></image:title>
 		</image:image>
 	</url>

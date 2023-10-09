@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- This sitemap was динамічно generated on 10.10.2023 at 01:31 by All in One SEO - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="https://fiftybeach.com/default.xsl?sitemap=cpt_team"?>
+<?xml-stylesheet type="text/xsl" href="https://twelve-beach.club/default.xsl?sitemap=cpt_team"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/team/david-green/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/team/david-green/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:25:36+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2020/04/team2-copyright.jpg]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2020/04/team2-copyright.jpg]]></image:loc>
 			<image:title><![CDATA[team2-copyright]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/team/nathan-jones/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/team/nathan-jones/]]></loc>
 		<lastmod><![CDATA[2022-05-19T15:54:46+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2020/04/team3-copyright.jpg]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2020/04/team3-copyright.jpg]]></image:loc>
 			<image:title><![CDATA[team3-copyright]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/team/jane-lewis/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/team/jane-lewis/]]></loc>
 		<lastmod><![CDATA[2021-10-15T10:15:22+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2020/04/team6-copyright.jpg]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2020/04/team6-copyright.jpg]]></image:loc>
 			<image:title><![CDATA[team6-copyright]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/team/jason-lee/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/team/jason-lee/]]></loc>
 		<lastmod><![CDATA[2021-10-15T10:13:30+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2020/04/team5-copyright.jpg]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2020/04/team5-copyright.jpg]]></image:loc>
 			<image:title><![CDATA[team5-copyright]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/team/nick-carter/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/team/nick-carter/]]></loc>
 		<lastmod><![CDATA[2021-10-15T10:10:31+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2020/04/team4-copyright.jpg]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2020/04/team4-copyright.jpg]]></image:loc>
 			<image:title><![CDATA[team4-copyright]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/team/andrew-walker/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/team/andrew-walker/]]></loc>
 		<lastmod><![CDATA[2021-10-15T10:03:19+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2020/04/team1-copyright.jpg]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2020/04/team1-copyright.jpg]]></image:loc>
 			<image:title><![CDATA[team1-copyright]]></image:title>
 		</image:image>
 	</url>

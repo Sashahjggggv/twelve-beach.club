@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- This sitemap was динамічно generated on 10.10.2023 at 01:31 by All in One SEO - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="https://fiftybeach.com/default.xsl?sitemap=cpt_testimonials"?>
+<?xml-stylesheet type="text/xsl" href="https://twelve-beach.club/default.xsl?sitemap=cpt_testimonials"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/testimonials/john-lewis-2/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/testimonials/john-lewis-2/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:29:17+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/testimonials/david-lee-2/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/testimonials/david-lee-2/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:29:12+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/testimonials/peter-parker/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/testimonials/peter-parker/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:28:53+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/testimonials/kylie-rogers/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/testimonials/kylie-rogers/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:28:31+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/testimonials/lisa-brown/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/testimonials/lisa-brown/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:28:07+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/testimonials/samantha-riley/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/testimonials/samantha-riley/]]></loc>
 		<lastmod><![CDATA[2022-05-30T08:27:38+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/testimonials/david-lee/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/testimonials/david-lee/]]></loc>
 		<lastmod><![CDATA[2021-10-18T08:43:29+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2020/04/tstm2-copyright.jpg]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2020/04/tstm2-copyright.jpg]]></image:loc>
 			<image:title><![CDATA[tstm2-copyright]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/testimonials/sam-smith/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/testimonials/sam-smith/]]></loc>
 		<lastmod><![CDATA[2021-10-18T08:43:02+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2020/04/tstm1-copyright.jpg]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2020/04/tstm1-copyright.jpg]]></image:loc>
 			<image:title><![CDATA[tstm1-copyright]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://fiftybeach.com/testimonials/john-lewis/]]></loc>
+		<loc><![CDATA[https://twelve-beach.club/testimonials/john-lewis/]]></loc>
 		<lastmod><![CDATA[2021-10-15T14:18:28+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://fiftybeach.com/wp-content/uploads/2020/04/tstm3-copyright.jpg]]></image:loc>
+			<image:loc><![CDATA[https://twelve-beach.club/wp-content/uploads/2020/04/tstm3-copyright.jpg]]></image:loc>
 			<image:title><![CDATA[tstm3-copyright]]></image:title>
 		</image:image>
 	</url>
