@@ -2,6 +2,6 @@ User-agent: *
 Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-admin/
 
-Sitemap: https://fiftybeach.com/sitemap.xml
-Sitemap: https://fiftybeach.com/sitemap.rss
+Sitemap: https://twelve-beach.club/sitemap.xml
+Sitemap: https://twelve-beach.club/sitemap.rss
 
